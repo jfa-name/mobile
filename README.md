@@ -1,7 +1,6 @@
 
 # Frappe Mobile
-
-Access your ERPNext desk or any other Frappe desk anytime from your smartphone.
+Acede a tu escritorio de ERPNext y otras aplicaciones Frappe para tu smartphone.
 
 ### Download the app
 <a href='https://play.google.com/store/apps/details?id=io.frappe.frappe_mobile&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><kbd><img height="38" src="download_badges/download_on_the_play_store_badge.svg" alt="Get it on Google Play" /></kbd></a>
@@ -12,7 +11,7 @@ Access your ERPNext desk or any other Frappe desk anytime from your smartphone.
 <kbd><img width="216" height="432" src="screenshots/form_view.png" alt="Form View" /></kbd>
 
 ## Features:
-1) Create/Update Docs
+1) Crear/Actualizar Documentos
 2) Add/Remove Assignees, Tags
 3) Add/Remove/Download Attachments 
 4) Add Comments, Send Email
