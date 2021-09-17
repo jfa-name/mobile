@@ -2,7 +2,7 @@
 # Frappe Mobile
 Acede a tu escritorio de ERPNext y otras aplicaciones Frappe para tu smartphone.
 
-### Download the app
+### Descargar la app
 <a href='https://play.google.com/store/apps/details?id=io.frappe.frappe_mobile&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><kbd><img height="38" src="download_badges/download_on_the_play_store_badge.svg" alt="Get it on Google Play" /></kbd></a>
 <a href='https://apps.apple.com/us/app/frappe-mobile/id1522707685'><kbd><img src="download_badges/download_on_the_app_store_badge.svg" alt="Download on App Store" /></kbd></a>
 
@@ -10,11 +10,11 @@ Acede a tu escritorio de ERPNext y otras aplicaciones Frappe para tu smartphone.
 <kbd><img width="216" height="432" src="screenshots/awesomebar.png" alt="Awesome Bar" /></kbd>
 <kbd><img width="216" height="432" src="screenshots/form_view.png" alt="Form View" /></kbd>
 
-## Features:
-1) Crear/Actualizar Documentos
-2) Add/Remove Assignees, Tags
-3) Add/Remove/Download Attachments 
-4) Add Comments, Send Email
+## Características:
+1) Crear/Actualizar Documentos.
+2) Crear/Actualizar Tareas.
+3) Crear/Actualizar/Descargar Adjuntos.
+4) Añadir comentarios, enviar Email.
 5) Appreciate/Criticize Users involved in specified Doc.
 6) Timeline
 7) Awesombar
